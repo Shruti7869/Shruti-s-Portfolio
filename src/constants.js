@@ -151,4 +151,13 @@ export const SkillsInfo = [
     tags: ["IoT", "Arduino/ESP32", "Sensors", "GPS", "Cloud", "Embedded Systems"],
      //github: "https://github.com/Shruti7869/IoT-Women-Safety-Device", // replace with actual link if different
   },
+{
+    id: 3,
+    title: "MealDB Food Recipe App",
+    description:
+      "A web application that allows users to search and explore recipes using TheMealDB API. Users can view recipe details, ingredients, and cooking instructions. The app is built with React.js and Axios for API calls, and uses Context API for state management.",
+    tags: ["React.js", "Axios", "Context API", "SCS", "TheMealDB API", "Web Development"],
+    github: "https://github.com/Shruti7869/mealdb-food-recipe-app-with-axios",
+},
+
     ];  
